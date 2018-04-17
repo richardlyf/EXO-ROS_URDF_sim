@@ -1,3 +1,5 @@
+#ROS_URDF_sim
+
 For now we will use ROS and rvis or Gazebo to build a simulation for the robot arm to test the controls program.
 
 Install ROS Kinetic: http://wiki.ros.org/kinetic/Installation
